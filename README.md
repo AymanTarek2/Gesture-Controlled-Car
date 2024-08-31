@@ -14,7 +14,7 @@ The Gesture-Controlled Car project involves developing a car that can be control
 
 1. **Hardware Assembly**:
    - **Master Arduino**: Connect the gyroscope sensor to the master Arduino.
-   - **Slave Arduino**: Connect the motor drivers (via an H-bridge) to the slave Arduino.
+   - **Slave Arduino**: Connect the motors (via an H-bridge) to the slave Arduino.
    - **Wireless Modules**: Set up wireless communication between the master and slave Arduino modules.
 
 2. **Upload Code**:
